@@ -27,8 +27,7 @@ Make sure you have Python installed on your machine. (The app uses Python's stan
 ### Running the Application
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/smart-sew.git
-
+   git clone https://github.com/jerrykselby/smart-sew.git
 
 2. Navigate into the project directory:
 cd smart-sew
